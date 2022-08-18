@@ -1,0 +1,24 @@
+span .timer {
+  display: inline;
+}
+
+.container {
+  position: center;
+}
+
+.row align-items-start {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+body {
+  background-color: black;
+}
+p {color: white;}
+h1 {color: white;}
+
+.col {
+  margin-top: 6%;
+}
